@@ -6,7 +6,7 @@
 
 내일배움캠프 iOS 3기 13조의 팀 프로젝트로, 사용자 맞춤형 날씨 정보를 제공하는 iOS 앱입니다. 현대카드 웨더 앱에서 영감을 받아 디자인되었으며, 생동감 있는 애니메이션과 함께 사용자 위치 기반 및 검색 지역의 상세 날씨 정보, 북마크 기능, 비 소식 알림 기능을 제공합니다. 이 리드미 파일은 @eqqmayo가 구현한 부분을 중심으로 서술합니다.
 <br><br>
-<img width="210" alt="1" src="https://github.com/user-attachments/assets/b07dbd74-4f20-4395-97c7-922d89da77ec"><img width="210" alt="2" src="https://github.com/user-attachments/assets/0b3ca90b-7eb1-4837-b73f-43f876d0e071"><img width="210" alt="3" src="https://github.com/user-attachments/assets/c1f61b68-e81b-4958-be6f-e0284031635a"><img width="210" alt="4" src="https://github.com/user-attachments/assets/b7210d76-b301-431d-bbec-88ef96508950">
+<p align="center"><img width="190" alt="1" src="https://github.com/user-attachments/assets/b07dbd74-4f20-4395-97c7-922d89da77ec"><img width="190" alt="2" src="https://github.com/user-attachments/assets/0b3ca90b-7eb1-4837-b73f-43f876d0e071"><img width="190" alt="3" src="https://github.com/user-attachments/assets/c1f61b68-e81b-4958-be6f-e0284031635a"><img width="190" alt="4" src="https://github.com/user-attachments/assets/b7210d76-b301-431d-bbec-88ef96508950"></p>
 
 
 ## Features
